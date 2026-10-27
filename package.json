@@ -1,0 +1,13 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "Small JavaScript practice programs with tests.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Abhinaba Chanda",
+  "license": "MIT"
+}
