@@ -15,6 +15,12 @@
 | [`vowel-count.js`](vowel-count.js) | Counts the vowels in a sentence | regex, `match()` |
 | [`shopping-cart.js`](shopping-cart.js) | Cart total, discount codes and the most expensive item | arrays of objects, `reduce` |
 
+## 🎮 Mini projects
+
+| Project | What it does | Concepts practiced |
+|---|---|---|
+| [`todo-cli/`](todo-cli) | Terminal to-do list: add, list, done, remove and search tasks saved in a JSON file | `fs`, `process.argv`, modules, tests |
+
 ## ▶️ How to run
 
 ```bash
