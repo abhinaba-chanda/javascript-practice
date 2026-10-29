@@ -1,0 +1,10 @@
+{
+  "name": "js-todo-cli",
+  "version": "1.0.0",
+  "description": "A tiny to-do list for the terminal",
+  "main": "todo.js",
+  "bin": { "todo": "todo.js" },
+  "scripts": { "test": "node --test" },
+  "author": "Abhinaba Chanda",
+  "license": "MIT"
+}
